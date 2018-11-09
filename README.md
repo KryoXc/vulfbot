@@ -1,7 +1,7 @@
-#VulfBot
+# VulfBot
 A node bot for Discord that posts updates from the Vulfpeck YouTube channel.
 
-#Installation
+# Installation
 This is a bit involved. 
 
 To install:
